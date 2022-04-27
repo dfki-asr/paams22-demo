@@ -28,7 +28,7 @@ This repository contains supplementary material to the paper "Behavior Trees as 
     2. ... select the file ./behaviors/behaviors.ttl .
     3. You should now see a list of Behavior Trees available in the drop down list, named for example PAAMS_SENSE, PAAMS_OHA_PERC, etc.
 3. In the AJAN Editor "Agents" tab ...
-  	1. Make sure you are currently to in the "Agents/Templates" tab
+  	1. Make sure you are currently in the "Agents/Templates" tab
     2. ... select _File->Import Repo ..._
     3. ... select the file ./behaviors/agents.ttl .
 3. Switch to the  "Agents/Instances" Tab:
