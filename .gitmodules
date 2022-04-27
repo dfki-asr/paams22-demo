@@ -1,0 +1,10 @@
+[submodule "paams22-scenario"]
+	path = paams22-scenario
+	url = git@github.com:dfki-asr/paams22-scenario.git
+[submodule "paams22-behaviors"]
+	path = paams22-behaviors
+	url = git@github.com:dfki-asr/paams22-behaviors.git
+[submodule "sparql-api-wrapper"]
+	path = sparql-api-wrapper
+	url = git@github.com:tospie/sparql-api-wrapper.git
+	branch = rdf-emitting-endpoint
