@@ -1,9 +1,9 @@
-[submodule "paams22-scenario"]
-	path = paams22-scenario
-	url = git@github.com:dfki-asr/paams22-scenario.git
-[submodule "paams22-behaviors"]
-	path = paams22-behaviors
-	url = git@github.com:dfki-asr/paams22-behaviors.git
+[submodule "wiait22-scenario"]
+	path = wiait22-scenario
+	url = git@github.com:dfki-asr/wiait22-scenario.git
+[submodule "wiait22-behaviors"]
+	path = wiait22-behaviors
+	url = git@github.com:dfki-asr/wiait22-behaviors.git
 [submodule "sparql-api-wrapper"]
 	path = sparql-api-wrapper
 	url = git@github.com:tospie/sparql-api-wrapper.git
