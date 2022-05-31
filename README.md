@@ -2,7 +2,7 @@
 
 This repository contains all necessary resources to test and run the example application that demonstrates behavior trees as semantics preserving implementation of Milner CCS process expressions. 
 
-This repository contains supplementary material to the paper "Behavior Trees as executable representation of Milner Calculus notations", submitted to the 20th International Conference on Practical Applications of Agents and Multi-Agent Systems (PAAMS'22).
+This repository contains supplementary material to the paper "Behavior Trees as executable representation of Milner Calculus notations", submitted to the The 21st IEEE/WIC/ACM International Conference on Web Intelligence and Intelligent Agent Technology (WI-IAT'22).
 
 ## Setup
 
