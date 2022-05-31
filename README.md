@@ -10,15 +10,15 @@ This repository contains supplementary material to the paper "Behavior Trees as 
   - https://github.com/aantakli/AJAN-service
   - https://github.com/aantakli/AJAN-editor  
 2. Build the demo scenario endpoint that will provide the simulation of the shopfloor, and run the application to listen on server port 8190:
-    1. cd ./paams22-scenario
+    1. cd ./wiait22-scenario
     2. mvn install
     3. cd target/
-    4. java -jar paams22-demo-scenario-1.0-SNAPSHOT.jar --server.port=8190
+    4. java -jar wiait22-demo-scenario-1.0-SNAPSHOT.jar --server.port=8190
 3. Build the SPARQL API Proxy that will receive SPARQL queries by the agents, and evaluate them against the demo scenario endpoints. The service is supposed to run on port 8091:
     1. cd ./sparql-api-wrapper/sparql-api-wrapper/
     2. mvn install
     3. cd target/
-    4. java -jar paams22-demo-scenario-1.0-SNAPSHOT.jar --server.port=8091
+    4. java -jar wiait22-demo-scenario-1.0-SNAPSHOT.jar --server.port=8091
 
 ## Try the Demo
 
